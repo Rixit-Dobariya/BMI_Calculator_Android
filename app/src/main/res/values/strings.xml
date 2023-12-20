@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image">My Image</string>
+    <string name="about_us">It is just some random text. It is just some random text. It is just some random text. It is just some random text. It is just some random text.It is just some random text.It is just some random text.It is just some random text.It is just some random text.It is just some random text.v.It is just some random text.</string>
+    <string name="result">Result</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="height_input_inches">Enter your height(in Inches)</string>
+    <string name="height_input_feet">Enter your height(in Feet)</string>
+    <string name="width_input_kg">Enter your weight(in Kg)</string>
+    <string name="overweight">You are overweight!</string>
+    <string name="underweight">You are underweight!</string>
+    <string name="healthy">You are healthy!</string>
+</resources>
